@@ -1,0 +1,13 @@
+C:\Users\aelde\Desktop\Graficos\Programas de C#\bin\Debug\netcoreapp3.1\Programas de C#.exe
+C:\Users\aelde\Desktop\Graficos\Programas de C#\bin\Debug\netcoreapp3.1\Programas de C#.deps.json
+C:\Users\aelde\Desktop\Graficos\Programas de C#\bin\Debug\netcoreapp3.1\Programas de C#.runtimeconfig.json
+C:\Users\aelde\Desktop\Graficos\Programas de C#\bin\Debug\netcoreapp3.1\Programas de C#.runtimeconfig.dev.json
+C:\Users\aelde\Desktop\Graficos\Programas de C#\bin\Debug\netcoreapp3.1\Programas de C#.dll
+C:\Users\aelde\Desktop\Graficos\Programas de C#\bin\Debug\netcoreapp3.1\Programas de C#.pdb
+C:\Users\aelde\Desktop\Graficos\Programas de C#\obj\Debug\netcoreapp3.1\Programas de C#.csprojAssemblyReference.cache
+C:\Users\aelde\Desktop\Graficos\Programas de C#\obj\Debug\netcoreapp3.1\Programas de C#.AssemblyInfoInputs.cache
+C:\Users\aelde\Desktop\Graficos\Programas de C#\obj\Debug\netcoreapp3.1\Programas de C#.AssemblyInfo.cs
+C:\Users\aelde\Desktop\Graficos\Programas de C#\obj\Debug\netcoreapp3.1\Programas de C#.csproj.CoreCompileInputs.cache
+C:\Users\aelde\Desktop\Graficos\Programas de C#\obj\Debug\netcoreapp3.1\Programas de C#.dll
+C:\Users\aelde\Desktop\Graficos\Programas de C#\obj\Debug\netcoreapp3.1\Programas de C#.pdb
+C:\Users\aelde\Desktop\Graficos\Programas de C#\obj\Debug\netcoreapp3.1\Programas de C#.genruntimeconfig.cache
