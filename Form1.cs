@@ -16,6 +16,14 @@ namespace Programas_de_C_
         {
             InitializeComponent();
         }
+        /* creamos el evento del boton salir para ello crearemos el evenHandler en la clase de
+        designer del mismo formulario con la siguiente sintacsis 
+        this.Salir.Click += new System.EventHandler(this.Salir_Click); asi procederemos con dicho evento*/
+        private void Salir_Click(Object sender,EventArgs e)
+        {
+            this.Close();
+
+        }
 
     }
 }
